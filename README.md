@@ -1,7 +1,7 @@
 # Development-Control-Enforcement-in-Adansi-Asokwa
 # Challenges and Effectiveness of Development Control Enforcement in Adansi Asokwa
 
-📄 Full Report: [View Analysis](analysis.html)
+📄 Full Report: [View Analysis](Development Control Enforcement in Adansi Asokwa.html)
 
 ## Overview
 This project investigates the enforcement of development control regulations in Adansi Asokwa, Ghana, through a 2025 survey of 150 property owners, focusing on institutional challenges, measure effectiveness, and the role of support and engagement in compliance. Key barriers include low awareness of building regulations (2.7%) and information gaps (90.6% non-permit holders), leading to 70.1% non-compliance. While site inspections are moderately effective (70%), stop-work notices show low issuance (17.9%) and compliance (33.3%), with only 14.3% of unauthorized cases addressed. Institutional satisfaction (28.5%) and trust (18.9% high) significantly boost compliance (p<2.2e-16), yet sparse assistance (1.5%) limits impact. Findings advocate for awareness campaigns, capacity building, and participatory mechanisms to enhance regulatory adherence and curb unauthorized development in peri-urban areas.
